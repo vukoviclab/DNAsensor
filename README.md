@@ -20,3 +20,4 @@ The scripts are compatible with Python 3, Tensorflow 2 and Scikit-learn 0.24.
 * **nn_classification.py** </br>
     Building the models and then run the Conv2D models
 
+*
